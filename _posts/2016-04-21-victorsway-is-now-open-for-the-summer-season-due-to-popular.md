@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Victorsway is now open for the summer season due to popular demand!'
-datePublished: '2016-04-21T18:50:57.724Z'
-dateModified: '2016-04-21T18:44:24.102Z'
+datePublished: '2016-04-21T18:54:12.616Z'
+dateModified: '2016-04-21T18:51:02.937Z'
 title: ''
 author: []
 authors: []
