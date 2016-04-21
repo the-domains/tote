@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Victorsway is now open for the summer season due to popular demand!'
-datePublished: '2016-04-21T18:54:12.616Z'
-dateModified: '2016-04-21T18:51:02.937Z'
+datePublished: '2016-04-21T19:04:07.126Z'
+dateModified: '2016-04-21T19:03:44.192Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-21-victorsway-is-now-open-for-the-summer-season-due-to-popular.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-victorsway-is-now-open-for-the-summer-season-due-to-popular.md
-published: true
 url: victorsway-is-now-open-for-the-summer-season-due-to-popular/index.html
 _type: Article
 
@@ -53,8 +53,8 @@ Silence. Granny computes the data she's copied from me to create a wholly satisf
 ''So basically I'm a virtual logic machine that creates real, albeit relative order from unreal chaos! '' Yes, and at 92,''
 
 ''And attaining a real differential order upgrade is signalled with happiness?'' ''Yes! However it is attaining, meaning: arriving, completing, ending and so on at a new (because different) state, that triggers the happiness buzzer,not the state attained. My BIO-NAV is indifferent to the content of a state. It measures and responds only to a change of state. Happiness signals an increase (or change) in the survival capacity of a new state.''
-
-''Don't tell me! By copying what's different I become different. By applying my difference externally i not only make a difference but become even more different , thereby increasing my survival capacity. Then I activate my happiness buzzer to instruct myself that I've attained my goal, namely increased survival capacity. And i buzz more intensly and sweeter the more my survival capacity has increased. And I can do that in any world I choose to participate in or create , actual or virtual, made or faked!''
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/82735464-7a6e-4b69-aa8d-faf59772394f.jpg)
 
-''Clever girl!'' For more Aphorisms and Commentry Visit:www.victorsway.eu
+''Don't tell me! By copying what's different I become different. By applying my difference externally i not only make a difference but become even more different , thereby increasing my survival capacity. Then I activate my happiness buzzer to instruct myself that I've attained my goal, namely increased survival capacity. And i buzz more intensly and sweeter the more my survival capacity has increased. And I can do that in any world I choose to participate in or create , actual or virtual, made or faked!''
+
+''Clever girl!'' For more Aphorisms and Commentry :www.victorsway.eu
