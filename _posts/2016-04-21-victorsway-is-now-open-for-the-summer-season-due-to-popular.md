@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Victorsway is now open for the summer season due to popular demand!'
-datePublished: '2016-04-21T19:12:48.941Z'
-dateModified: '2016-04-21T19:10:59.606Z'
+datePublished: '2016-04-21T19:44:22.188Z'
+dateModified: '2016-04-21T19:43:53.078Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-21-victorsway-is-now-open-for-the-summer-season-due-to-popular.md
@@ -53,7 +53,7 @@ Silence. Granny computes the data she's copied from me to create a wholly satisf
 ''So basically I'm a virtual logic machine that creates real, albeit relative order from unreal chaos! '' Yes, and at 92,''
 
 ''And attaining a real differential order upgrade is signalled with happiness?'' ''Yes! However it is attaining, meaning: arriving, completing, ending and so on at a new (because different) state, that triggers the happiness buzzer,not the state attained. My BIO-NAV is indifferent to the content of a state. It measures and responds only to a change of state. Happiness signals an increase (or change) in the survival capacity of a new state.''
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/82735464-7a6e-4b69-aa8d-faf59772394f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9867c5f-6765-4dd6-b274-2ee318134637.jpg)
 
 ''Don't tell me! By copying what's different I become different. By applying my difference externally i not only make a difference but become even more different , thereby increasing my survival capacity. Then I activate my happiness buzzer to instruct myself that I've attained my goal, namely increased survival capacity. And i buzz more intensly and sweeter the more my survival capacity has increased. And I can do that in any world I choose to participate in or create , actual or virtual, made or faked!''
 
