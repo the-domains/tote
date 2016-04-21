@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Tote]]></title>
         <description><![CDATA[Tote]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tote/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 00:52:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 14:38:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tote/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p> Electroencephalography: Even though the following paper was published in 2010.Its background is a relevant insight to many of the more recent papers on the subject who may need to conduct new trials in order to accquire a more fitter data acquisition on the subject before publishing there research papers/p300/.this paper is available at Hindawi</p>]]></description>
-            <link>undefinedelectroencephalography-even-though-the-following-paper-was/index.html</link>
+            <link>https://thegrid.ai/tote/electroencephalography-even-though-the-following-paper-was/index.html</link>
             <guid isPermaLink="false">0db38c8f-3381-40e3-8420-5a1e3e1f612a</guid>
-            <pubDate>Thu, 21 Apr 2016 00:52:38 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2016 14:38:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
