@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Victorsway is now open for the summer season due to popular demand!'
-datePublished: '2016-04-21T19:44:22.188Z'
-dateModified: '2016-04-21T19:43:53.078Z'
+datePublished: '2016-04-21T21:14:12.397Z'
+dateModified: '2016-04-21T20:32:10.203Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-21-victorsway-is-now-open-for-the-summer-season-due-to-popular.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 Victorsway is now open for the summer season due to popular demand!
 
-Here is a short extract from is latest Novel" How to Make and Fake Happiness.
+Here is a short extract from his latest Novel" How to Make and Fake Happiness.
 
 "Hurrah!´I'm a bio-logical 
 
