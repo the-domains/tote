@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ' Electroencephalography: Even though the following paper was published in 2010.Its background is a relevant insight to many of the more recent papers on the subject who may need to conduct new trials in order to accquire a more fitter data acquisition on the subject before publishing there research papers/p300/.this paper is available at Hindawi'
-datePublished: '2016-04-21T00:52:38.941Z'
-dateModified: '2016-04-21T00:45:24.484Z'
+datePublished: '2016-04-21T14:38:11.512Z'
+dateModified: '2016-04-21T00:56:35.741Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-18-electroencephalography-even-though-the-following-paper-was.md
