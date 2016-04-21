@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Victorsway is now open for the summer season due to popular demand!'
-datePublished: '2016-04-21T19:04:07.126Z'
-dateModified: '2016-04-21T19:03:44.192Z'
+datePublished: '2016-04-21T19:12:48.941Z'
+dateModified: '2016-04-21T19:10:59.606Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-21-victorsway-is-now-open-for-the-summer-season-due-to-popular.md
@@ -57,4 +57,6 @@ Silence. Granny computes the data she's copied from me to create a wholly satisf
 
 ''Don't tell me! By copying what's different I become different. By applying my difference externally i not only make a difference but become even more different , thereby increasing my survival capacity. Then I activate my happiness buzzer to instruct myself that I've attained my goal, namely increased survival capacity. And i buzz more intensly and sweeter the more my survival capacity has increased. And I can do that in any world I choose to participate in or create , actual or virtual, made or faked!''
 
-''Clever girl!'' For more Aphorisms and Commentry :www.victorsway.eu
+''Clever girl!'' For more Aphorisms and Commentry
+
+http://www.victorsway.eu
