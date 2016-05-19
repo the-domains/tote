@@ -5,12 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Theg Grid and my reflection sofar with the Algorithm Experience
-datePublished: '2016-04-23T15:41:31.797Z'
-dateModified: '2016-04-23T15:41:14.550Z'
+datePublished: '2016-05-19T14:19:35.981Z'
+dateModified: '2016-04-23T15:41:34.995Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-thegridio-and-my-reflection-sofar-with-the-algorithm-experi.md
-published: true
 authors: []
 publisher:
   name: null
