@@ -3,15 +3,14 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Victorsway is now open for the summer season due to popular demand!'
-datePublished: '2016-04-21T21:14:12.397Z'
-dateModified: '2016-04-21T20:32:10.203Z'
+datePublished: '2016-05-19T14:20:19.470Z'
+dateModified: '2016-04-21T21:31:56.502Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-21-victorsway-is-now-open-for-the-summer-season-due-to-popular.md
-published: true
 authors: []
 publisher:
   name: null
