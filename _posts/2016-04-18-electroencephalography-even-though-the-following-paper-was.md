@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' Electroencephalography: Even though the following paper was published in 2010.Its background is a relevant insight to many of the more recent papers on the subject who may need to conduct new trials in order to accquire a more fitter data acquisition on the subject/p300 (the following paper can be accessed under the search term(improvement of EEG Signal Acquisition,an electrical aspect for the state of the Art front end. (Courtesy of www.hindawi.com)'
-datePublished: '2016-05-19T14:36:27.481Z'
-dateModified: '2016-05-19T14:35:33.896Z'
+datePublished: '2016-05-19T18:35:34.986Z'
+dateModified: '2016-05-19T18:35:31.694Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-18-electroencephalography-even-though-the-following-paper-was.md
@@ -20,7 +20,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bc00a64-df83-44ae-9553-4bbde3c349d0.jpg)
 
 Electroencephalography: Even though the following paper was published in 2010.Its background is a relevant insight to many of the more recent papers on the subject who may need to conduct new trials in order to accquire a more fitter data acquisition on the subject/p300 (the following paper can be accessed under the search term(improvement of EEG Signal Acquisition,an electrical aspect for the state of the Art front end. (Courtesy of www.hindawi.com)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3689212-c0ef-43d6-9558-2b8a33604879.jpg)
 
 Computational Intelligence and Neuroscience
 
