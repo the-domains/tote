@@ -3,24 +3,22 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
 keywords: []
 description: 'Victorsway is now open for the summer season due to popular demand!'
-datePublished: '2016-05-19T14:20:19.470Z'
-dateModified: '2016-04-21T21:31:56.502Z'
+datePublished: '2016-05-21T02:36:49.966Z'
+dateModified: '2016-05-21T02:36:31.250Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-21-victorsway-is-now-open-for-the-summer-season-due-to-popular.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: true
 url: victorsway-is-now-open-for-the-summer-season-due-to-popular/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14ad5cae-d91d-4c48-b7b2-28915ec004ce.jpg)
+
 Victorsway is now open for the summer season due to popular demand!
 
 Here is a short extract from his latest Novel" How to Make and Fake Happiness.
@@ -52,7 +50,6 @@ Silence. Granny computes the data she's copied from me to create a wholly satisf
 ''So basically I'm a virtual logic machine that creates real, albeit relative order from unreal chaos! '' Yes, and at 92,''
 
 ''And attaining a real differential order upgrade is signalled with happiness?'' ''Yes! However it is attaining, meaning: arriving, completing, ending and so on at a new (because different) state, that triggers the happiness buzzer,not the state attained. My BIO-NAV is indifferent to the content of a state. It measures and responds only to a change of state. Happiness signals an increase (or change) in the survival capacity of a new state.''
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9867c5f-6765-4dd6-b274-2ee318134637.jpg)
 
 ''Don't tell me! By copying what's different I become different. By applying my difference externally i not only make a difference but become even more different , thereby increasing my survival capacity. Then I activate my happiness buzzer to instruct myself that I've attained my goal, namely increased survival capacity. And i buzz more intensly and sweeter the more my survival capacity has increased. And I can do that in any world I choose to participate in or create , actual or virtual, made or faked!''
 
