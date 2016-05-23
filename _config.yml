@@ -1,4 +1,4 @@
-name: go create
+name: go-create
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 1
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fe6767'
-    - '#fd00fd'
-    - '#fdc800'
-    - '#00fdf6'
-    - '#0001f7'
+    - '#47c7d4'
+    - '#fb7200'
+    - '#fbfbfb'
+    - '#fbee01'
+    - '#8db900'
   brandStrength: 0.9400130603462458
   lightness: 1
   saturation: 0.8125
